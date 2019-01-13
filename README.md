@@ -1,8 +1,6 @@
 # mrbs
-Docker version of mrbs room management system
+Docker version of mrbs room management system: https://mrbs.sourceforge.io
 Docker hub address: https://cloud.docker.com/u/vanjor/repository/docker/vanjor/mrbs
-
-
 
 using user defined ext config and is not required, which will append to config.inc.php: e.g. https://sourceforge.net/p/mrbs/hg-code/ci/default/tree/web/config.inc.php-sample 
 
